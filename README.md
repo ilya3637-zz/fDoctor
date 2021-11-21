@@ -10,6 +10,7 @@ $ docker load < myimage_latest.tar.gz
 $ docker run my_test_app
 
 Для запуска тестов на машине требуется установленный python. Запустить можно командой: 
+
 $ pytest -v app.py 
 
 Входят следующие тесты:

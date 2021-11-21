@@ -3,7 +3,7 @@
 Образ собран на macos 
 В основе pytho3 https://hub.docker.com/_/python
 
-Для использования - загрузить контейнер на устройство.
+Для использования - [загрузить контейнер](https://drive.google.com/file/d/1UQbjNRcsbYWkugeH5_st-9uzNg9j-845/view?usp=sharing) на устройство и выполнить в папке следующие команды:
 
 $ docker load < myimage_latest.tar.gz
 

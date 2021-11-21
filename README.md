@@ -1,2 +1,3 @@
-# fDoctor
-Weather API
+# AutoTests for Wearher API
+
+Тестовое задание

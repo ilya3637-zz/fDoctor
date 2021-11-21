@@ -1,3 +1,3 @@
-# AutoTests for Wearher API
+# AutoTests for Weather API
 
 Тестовое задание
